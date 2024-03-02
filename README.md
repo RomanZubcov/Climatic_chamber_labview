@@ -6,6 +6,7 @@ This project consists of a series of LabVIEW applications designed to demonstrat
 
 ## Projects Description
 
+
 ### 1. Binary Configuration Value Display
 
 - **Objective:** Given 8 switches that can be controlled by the user, display the decimal and hexadecimal values of the binary configuration represented by the switch settings.
