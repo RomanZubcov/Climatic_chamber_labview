@@ -63,7 +63,4 @@ To run these projects, you will need:
 
 - These projects are open for improvement and contributions. Whether it's adding new features, improving the existing code, or fixing bugs, your contributions are welcome.
 
-## License
-
-- This project is licensed under the MIT License - see the LICENSE file for details.
 
